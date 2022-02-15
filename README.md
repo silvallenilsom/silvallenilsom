@@ -2,6 +2,7 @@
 #### Readme em construção
 Testando imagem<br>
 ![Logo Lenilsom](https://www.flickr.com/photos/195033753@N04/51884552174)<br>
+![logo no github](silvallenilsom/logoLenilsom.png)<br>
 Testando links<br>
 [meu perfil no LinkedIn](https://www.linkedin.com/in/silvalenilsom/)<br>
 <a href="https://www.linkedin.com/in/silvalenilsom/" target="_blank">Abre meu LinkedIn em outra guia</a>
