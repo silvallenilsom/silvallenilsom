@@ -1,7 +1,7 @@
 # Hi there 👋
 #### Readme em construção
 Testando links<br>
-[meu perfil no LinkedIn](https://www.linkedin.com/in/silvalenilsom/)
+[meu perfil no LinkedIn](https://www.linkedin.com/in/silvalenilsom/)<br>
 <a href="https://www.linkedin.com/in/silvalenilsom/" target="blank">Abre meu LinkedIn em outra guia</a>
 
 <!--
