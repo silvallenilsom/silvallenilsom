@@ -1,7 +1,7 @@
 # Hi there 👋
 #### Readme em construção
 Testando imagem<br>
-![Logo Lenilsom](https://www.flickr.com/photos/195033753@N04/51884552174)<br>
+![Logo Lenilsom](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.techtudo.com.br%2Fnoticias%2F2011%2F05%2Fo-que-e-o-linkedin-conheca-essa-ferramenta-online-para-encontrar-empregos.ghtml&psig=AOvVaw3XhwWZ_9QyWHsvYpJDG48X&ust=1645053863518000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIDP3a3tgvYCFQAAAAAdAAAAABAD)<br>
 Testando links<br>
 [meu perfil no LinkedIn](https://www.linkedin.com/in/silvalenilsom/)<br>
 <a href="https://www.linkedin.com/in/silvalenilsom/" target="_blank">Abre meu LinkedIn em outra guia</a>
