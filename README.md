@@ -1,11 +1,9 @@
 # Seja bem vindo(a) ao meu repositório!!!
-***
-<ul>
-  <li>First item</li>
-  <li>Second item</li>
-  <li>Third item</li>
-  <li>Fourth item</li>
-</ul>
+
+| Sobre mim      | about me |
+| ----------- | ----------- |
+| Ola estou em mudança de carreira, atualmente sou professor de lingua portuguesa e busco por oportunidades na area de tecnologia |this is a simples test for inputing a table on my readme       |
+
 
 
 ## 📖 Sobre mim/about me
