@@ -1,7 +1,6 @@
 # Seja bem vindo(a) ao meu repositório!!!
 
-| Sobre mim      | about me |
-| ----------- | ----------- |
+
 | Ola estou em mudança de carreira, atualmente sou professor de lingua portuguesa e busco por oportunidades na area de tecnologia |this is a simples test for inputing a table on my readme       |
 
 
