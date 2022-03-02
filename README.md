@@ -1,15 +1,12 @@
 # Seja bem vindo(a) ao meu repositório!!!
 ## 📖 Sobre mim/about me
 
-- 💻 Desenvolvedor Front-end **|** back-end.
-- 🌱 Atualmente  aprendendo **Python** 
-- ❤️ Apaixonado por tecnologia, educação, cultura japonesa.
-- 👯 I’m looking to collaborate on ...
-- 🤔 Pronomes: Ele/Dele 
+- 💻 Desenvolvedor Front-end **|** back-end;
+- 🌱 Atualmente  aprendendo **Python**; 
+- ❤️ Apaixonado por tecnologia, educação, cultura japonesa;
+- 😄 Pronomes: Ele/Dele;
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-
 
 <a href="https://www.linkedin.com/in/silvalenilsom/" target="_blank">![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 </a>
