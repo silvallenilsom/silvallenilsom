@@ -6,7 +6,7 @@ Testando imagem<br>
 Testando links<br>
 [meu perfil no LinkedIn](https://www.linkedin.com/in/silvalenilsom/)<br>
 <a href="https://www.linkedin.com/in/silvalenilsom/" target="_blank">
-  https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+  (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 </a>
 
 <!--
