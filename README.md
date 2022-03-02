@@ -1,7 +1,7 @@
 # Seja bem vindo(a) ao meu repositório!!!
 
 
-#### Readme em construção
+#### Sobre mim / about me
 Testando imagem<br>
 Testando links<br>
 [meu perfil no LinkedIn](https://www.linkedin.com/in/silvalenilsom/)<br>
