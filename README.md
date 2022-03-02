@@ -1,8 +1,12 @@
 # Seja bem vindo(a) ao meu repositório!!!
 ## 📖 Sobre mim/about me
 
-- 🌱 Atualmente estou aprendendo **Python**
-  I’m currently learning **Python**
+- 💻 Desenvolvedor Front-end **|** back-end.
+
+- ❤️ Apaixonado por tecnologia, educação, cultura japonesa.
+
+- 🌱 Atualmente  aprendendo **Python**
+ 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
