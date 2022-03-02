@@ -6,12 +6,12 @@
 - ❤️ Apaixonado por tecnologia, educação, cultura japonesa;
 - 😄 Pronomes: Ele/Dele;
 
-## Github analytics
+## 🔎 Github analytics
 ![Github stats](https://github-readme-stats.vercel.app/api?username=silvallenilsom&theme=highcontrast&show_icons=true&count_private=true)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=silvallenilsom)
 
-## Tecnologias/technologies
+## 🛠 Tecnologias/technologies
 
 #### - Front-end
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -26,7 +26,7 @@
 ![MYSQL](	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## Fale comigo
+## ☎️ Como me encontrar
 <a href="https://www.linkedin.com/in/silvalenilsom/">![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://wa.me/5561992618766">![whattsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
 <a href="https://t.me/silvaLenilsom">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
