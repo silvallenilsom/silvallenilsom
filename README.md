@@ -4,6 +4,7 @@
 
 <a href="https://www.linkedin.com/in/silvalenilsom/" target="_blank">![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 </a>
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=silvallenilsom&theme=highcontrast&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=silvallenilsom&layout=compact)
 ## Tecnologias/technologies
