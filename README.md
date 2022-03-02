@@ -1,5 +1,5 @@
 # 🥳 Seja bem vindo(a) ao meu repositório!!!👍
-<img src = "logoLenilsom.png">
+<img src = "logoLenilsom.png" alt = "Logo Lenilsom" width = "100" />
 #### Readme em construção
 Testando imagem<br>
 
