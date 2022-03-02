@@ -1,7 +1,7 @@
 # Hi there 👋
 #### Readme em construção
 Testando imagem<br>
-<img src = "silvalenilsom.png">
+<img src = "logoLenilsom.png">
 ![Logo Lenilsom](https://www.flickr.com/photos/195033753@N04/51884552174)<br>
 ![logo no github](silvallenilsom/logoLenilsom.png)<br>
 Testando links<br>
