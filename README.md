@@ -1,4 +1,4 @@
-# :octocat: Seja bem vindo(a) ao meu repositório!!! 👋
+# 🥳 Seja bem vindo(a) ao meu repositório!!!👍
 <img src = "logoLenilsom.png">
 #### Readme em construção
 Testando imagem<br>
